@@ -49,7 +49,7 @@ sshfs YourPSUUser@bisanzlab.science.psu.edu
 A shared set of Conda enviornments (including Qiime, Humann, and Metwrap) is available. To access them run the following command after you have ssh'd into the server:
 
 ```
-/Users/jbisanz/miniconda3/etc/profile.d/conda.sh
+source /Users/jbisanz/miniconda3/etc/profile.d/conda.sh
 ```
 
 
