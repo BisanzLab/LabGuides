@@ -16,6 +16,8 @@ Visit [CITI](https://citi.psu.edu/) to complete the following online training:
 - [ ] Initial Biosafety Training - Yearly BioSafety Training (ID 146366)
 - [ ] Animal Care and Use (ACU) - Researchers (NOT involved in survival surgery) (ID 110495)
 
+Visit [EHS](https://psu.csod.com/samldefault.aspx?returnurl=%252fDeepLink%252fProcessRedirect.aspx%253fmodule%253dlodetails%2526lo%253d7f20e00f-85e8-4e82-a7be-683fc9038966) and complete EHS - Initial Laboratory and Research Safety Training - University Park.
+
 **!!!Send a copy of your completion certificates to Jordan!!!**
 
 ## Getting on the mail lists
