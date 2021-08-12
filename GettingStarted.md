@@ -11,6 +11,8 @@ We located in the Huck Life Sciences Building Room 305. You will be able to get 
 
 ## Required Training
 
+Read and sign the Bisanz Lab and Research Safety plan (binder in lab).
+
 Visit [CITI](https://citi.psu.edu/) to complete the following online training:
 - [ ] Shipping of Regulated Biological Material (ID 146359)
 - [ ] Initial Biosafety Training - Yearly BioSafety Training (ID 146366)
@@ -18,11 +20,15 @@ Visit [CITI](https://citi.psu.edu/) to complete the following online training:
 
 Visit [EHS](https://psu.csod.com/samldefault.aspx?returnurl=%252fDeepLink%252fProcessRedirect.aspx%253fmodule%253dlodetails%2526lo%253d7f20e00f-85e8-4e82-a7be-683fc9038966) and complete EHS - Initial Laboratory and Research Safety Training - University Park.
 
-**!!!Send a copy of your completion certificates to Jordan!!!**
+And also:
+- [ ] Complete the [Animal Hazards Training for Labs](https://pennstateoffice365.sharepoint.com/:p:/s/AnimalHazardSafetyProtocols/EchdwvEFK0VDlXrdCa35yd0B3uywgeF2S8_lmf6r0wHpYg?e=reQleH). 
+- [ ] Read the Animal Biosafety protocol for gnotobiotics [here](https://pennstateoffice365.sharepoint.com/:w:/s/AnimalHazardSafetyProtocols/ESvA412o4EZBnYJYATO_DKMBdUzhltv5t4oU8yVYqRsulA?e=8clUIj).
+
+**!!!Print copies of your completion certificates and give to Jordan. Ask to be added to the Animal Biohazard Training Record.**
 
 ## Getting on the mail lists
 
-- [ ] Email Matt mblack [at] psu.edu and request to be added to the microbiome center website.
+- [ ] Email Matt mblack [at] psu.edu and request to be added to the microbiome center mail list.
 
 ## Access to Lab Server
 
@@ -39,7 +45,7 @@ Visit [EHS](https://psu.csod.com/samldefault.aspx?returnurl=%252fDeepLink%252fPr
 ### Preferred tools:
 - [ ] Manuscript Writing: Google Docs or Microsoft Word
 - [ ] Reference Tracking: Paperpile
-- [ ] Data Analysis: R Studio using Markdown documents (if you don’t know what these are, I will teach you!)
+- [ ] Data Analysis: R Studio using Markdown documents (if you don’t know what these are, I will teach you!) or GraphPad Prism
 - [ ] Figure Generation: R and Adobe Illustrator
 - [ ] Presentations: PowerPoint or Keynote
 - [ ] Poster Generation: Adobe InDesign
