@@ -10,7 +10,7 @@ Ask Jordan to add you to the server group and then you will be able to access th
 
 ## Server Organization
 
-All parts of the server that you will need to interact with are stored in `/data`. Your home directory (where you should be doing most of your work) is stored in `/data/users/YourPSUUser`. Software tools that required compilation and/or downloaded databases are available in `/data/cluster/shared_resources`. There is also a conda installation available at `/data/cluster/shared_resources/conda_local/` which has many tools preinstalled. In general, please install new tools and/or databases into one of the shared locations to save the next person time!
+Your home directory (where you should be doing most of your work) is stored in `/home/YourPSUUser`. Software tools that required compilation and/or downloaded databases are available in `/data/shared_resources`. There is also a conda installation available at `/data/shared_resources/conda_local/` which has many tools preinstalled. In general, please install new tools and/or databases into one of the shared locations to save the next person time!
 
 ## RStudio Server
 
@@ -23,7 +23,7 @@ Since SMB is currently blocked, you can mount the server (makes it appear like i
 ```
 cd ~/
 mkdir -p LabServer
-sshfs YourPSUUser@bisanzlab.science.psu.edu:/data ~/LabServer
+sshfs YourPSUUser@bisanzlab.science.psu.edu:~/ ~/LabServer
 ```
 
 ## Permissions
@@ -41,7 +41,7 @@ If you have permissions issues accessing something important (example installing
 You can connect to the server using ssh to do your command line tasks as below:
 
 ```
-sshfs YourPSUUser@bisanzlab.science.psu.edu
+ssh YourPSUUser@bisanzlab.science.psu.edu
 ```
 
 ## Conda
@@ -49,7 +49,7 @@ sshfs YourPSUUser@bisanzlab.science.psu.edu
 A shared set of Conda enviornments (including Qiime, Humann, and Metwrap) is available. To access them run the following command after you have ssh'd into the server:
 
 ```
-source /Users/jbisanz/miniconda3/etc/profile.d/conda.sh
+source /data/shared_resources/conda_local/etc/profile.d/conda.sh
 ```
 
 
