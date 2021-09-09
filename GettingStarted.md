@@ -52,7 +52,7 @@ And also:
 - [ ] Lab Notebook: Paper for wet lab experiments, Findings or Benchling for wet lab experiments.
 
 ## Scheduling
-- [ ] Email Jordan to request being added to the lab ical!
+- [ ] Email Jordan to request being added to the lab calendars. These are managed through apple calendar. There are two calendars: Bisanz Lab Calendar (used for scheduling meetings and seeing Jordan's Availability) and Bisanz Lab Availability (where in you can put in the times which you are not available, ex: have class or other committments).
 
 ## Communicating in the lab
 - [ ] Please download and install [Slack](www.slack.com) and request invite from Jordan.
