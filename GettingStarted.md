@@ -2,12 +2,19 @@
 
 ## Building Access and Keys
 
-We located in the Huck Life Sciences Building Room 305. You will be able to get keycard access to the building/lab. Please email Deb dvb7 [at] psu.edu and cc jpb6325 [at] psu.edu requesting access.
+We located in the Huck Life Sciences Building Room 305. You will be able to get keycard access to the building/lab. Please email Deb dvb7 [at] psu.edu and cc jpb6325 [at] psu.edu requesting access. Be sure to send from your PSU address!
 
-## Get your photo taken for the department/lab website
+## Communicating in the lab
+- [ ] Please download and install [Slack](www.slack.com) and request invite from Jordan.
+- [ ] Please use Slack for most communication within the lab.
 
-- [ ] Email David dmb385 [at] psu.edu to request a time for him to snap a pick.
-- [ ] Send a copy to Jordan for the lab website.
+## Scheduling
+- [ ] Email Jordan to request being added to the lab calendars. These are managed through apple calendar. There are two calendars: Bisanz Lab Calendar (used for scheduling meetings and seeing Jordan's Availability) and Bisanz Lab Availability (where in you can put in the times which you are not available, ex: have class or other committments). Add your birthday to the Bisanz Lab Calendar!
+
+## Send your photo and bio for the lab website
+
+- [ ] Send a picture and brief bio for the lab website
+- [ ] If you need a picture taken email David dmb385 [at] psu.edu to request a time for him to snap a pick.
 
 ## Required Training
 
@@ -38,7 +45,8 @@ And also:
 ## Purchasing
 
 - [ ] Visit [SIMBA/OnLion/Lion Marketplace](simba.psu.edu) to look at options and prices
-- [ ] Send catalog #, price, and use to Jordan to be ordered or assign the cart (if possible).
+- [ ] Post catalog #, price, and use on the purchases channel of slack.
+- [ ] **This will be changing soon!**
 
 ## Software and computing needs
 
@@ -50,13 +58,6 @@ And also:
 - [ ] Presentations: PowerPoint or Keynote
 - [ ] Poster Generation: Adobe InDesign
 - [ ] Lab Notebook: Paper for wet lab experiments, Findings or Benchling for wet lab experiments.
-
-## Scheduling
-- [ ] Email Jordan to request being added to the lab calendars. These are managed through apple calendar. There are two calendars: Bisanz Lab Calendar (used for scheduling meetings and seeing Jordan's Availability) and Bisanz Lab Availability (where in you can put in the times which you are not available, ex: have class or other committments).
-
-## Communicating in the lab
-- [ ] Please download and install [Slack](www.slack.com) and request invite from Jordan.
-- [ ] Please use Slack for most communication within the lab.
 
 ## Organize First Planning Meeting
 - [ ] Schedule first meeting with Jordan
