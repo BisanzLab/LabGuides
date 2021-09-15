@@ -5,7 +5,7 @@
 We located in the Huck Life Sciences Building Room 305. You will be able to get keycard access to the building/lab. Please email Deb dvb7 [at] psu.edu and cc jpb6325 [at] psu.edu requesting access. Be sure to send from your PSU address!
 
 ## Communicating in the lab
-- [ ] Please download and install [Slack](www.slack.com) and request invite from Jordan.
+- [ ] Please download and install [Slack](www.slack.com) and request invite from Jordan or use link in your welcome letter.
 - [ ] Please use Slack for most communication within the lab.
 
 ## Scheduling
@@ -46,7 +46,6 @@ And also:
 
 - [ ] Visit [SIMBA/OnLion/Lion Marketplace](simba.psu.edu) to look at options and prices
 - [ ] Post catalog #, price, and use on the purchases channel of slack.
-- [ ] **This will be changing soon!**
 
 ## Software and computing needs
 
