@@ -6,7 +6,27 @@ We have a very powerful ubuntu server available for lab use which is also connec
 
 ## Gaining Access
 
-Ask Jordan to add you to the server group and then you will be able to access the server using your PSU account. If you are off campus, you will need to install [Global Protect](https://ithelp.ssri.psu.edu/guides/use-penn-state-vpn-mac) and connect before you will be able to access the server.
+Ask Jordan to add you to the server [user management group](https://accounts.psu.edu/manage) and the samba users (sudo smbpasswd -a) and then you will be able to access the server using your PSU account. If you are off campus, you will need to install [Global Protect](https://ithelp.ssri.psu.edu/guides/use-penn-state-vpn-mac) and connect before you will be able to access the server.
+
+## Note for windows users
+
+You will need to install a bash terminal. This can be done following the instructions [here](https://itsfoss.com/install-bash-on-windows/).
+
+## Note for mac users
+
+You may wish to change the default terminal on your computer to bash. Open terminal and run this command:
+
+```
+chsh -s /bin/bash
+```
+
+## SSH Access
+
+You can connect to the server using ssh to do your command line tasks as below. Do this through your terminal application. This will create a home directory for you and will be necessary before going forward.
+
+```
+ssh YourPSUUser@bisanzlab.science.psu.edu
+```
 
 ## Server Organization
 
@@ -16,15 +36,11 @@ Your home directory (where you should be doing most of your work) is stored in `
 
 You can access a full version of R studio remotely using the servers resources by going to [http://bisanzlab.science.psu.edu:443/](http://bisanzlab.science.psu.edu:443/) and logging in with your PSU user account.
 
-## Mounting the storage (OSX)
+## Mounting the storage
 
-Since SMB is currently blocked, you can mount the server (makes it appear like it is an external hard drive plugged into your computer) by downloading and installing macFuse and sshfs which are both available [here](https://osxfuse.github.io/). You can then open your terminal and use the following commands to mount the drive in your home directory:
+You can use samba to connect to the lab server's storage which makes it appears like the server is an external hard drive on your computer. On OSX: Open Finder > command K > add the server address `smb://bisanzlab.science.psu.edu` > click connect > log in with your PSU ID > choose Bisanz_Home. The server will now appear under Locations.
 
-```
-cd ~/
-mkdir -p LabServer
-sshfs YourPSUUser@bisanzlab.science.psu.edu:~/ ~/LabServer
-```
+If on windows, start by enabling samba following the instructions [here](https://www.asus.com/support/FAQ/1037477/). Thensee this [link](https://www.techrepublic.com/article/how-to-connect-to-linux-samba-shares-from-windows-10/) and connect to `\\bisanzlab.science.psu.edu\BisanzLab_Home.`
 
 ## Permissions
 
@@ -36,13 +52,6 @@ chmod -R 750 YourDirectory
 
 If you have permissions issues accessing something important (example installing a new conda or r package) please contact Jordan to resolve them.
 
-## SSH Access
-
-You can connect to the server using ssh to do your command line tasks as below:
-
-```
-ssh YourPSUUser@bisanzlab.science.psu.edu
-```
 
 ## Conda
 
