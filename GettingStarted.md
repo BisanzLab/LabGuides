@@ -31,7 +31,7 @@ And also:
 - [ ] Complete the [Animal Hazards Training for Labs](https://pennstateoffice365.sharepoint.com/:p:/s/AnimalHazardSafetyProtocols/EchdwvEFK0VDlXrdCa35yd0B3uywgeF2S8_lmf6r0wHpYg?e=reQleH). 
 - [ ] Read the Animal Biosafety protocol for gnotobiotics [here](https://pennstateoffice365.sharepoint.com/:w:/s/AnimalHazardSafetyProtocols/ESvA412o4EZBnYJYATO_DKMBdUzhltv5t4oU8yVYqRsulA?e=8clUIj).
 
-**!!!Print copies of your completion certificates and give to Jordan. Ask to be added to the Animal Biohazard Training Record.**
+**!!!Print copies of your completion certificates and give to Jaden. Ask to be added to the Animal Biohazard Training Record.**
 
 ## Getting on the mail lists
 
