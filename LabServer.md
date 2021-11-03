@@ -20,6 +20,13 @@ You may wish to change the default terminal on your computer to bash. Open termi
 chsh -s /bin/bash
 ```
 
+## Note for new PSU accounts
+
+A new default for PSU accounts may need to be adjusted:
+- log into accounts.psu.edu with your Penn State credentials
+- on the left side of the screen, find and click “Computer Settings”
+- confirm that the login shell is not set to /sbin/nologin. If it is, change it to /bin/bash
+
 ## SSH Access
 
 You can connect to the server using ssh to do your command line tasks as below. Do this through your terminal application. This will create a home directory for you and will be necessary before going forward.
@@ -41,6 +48,8 @@ You can access a full version of R studio remotely using the servers resources b
 You can use samba to connect to the lab server's storage which makes it appears like the server is an external hard drive on your computer. On OSX: Open Finder > command K > add the server address `smb://bisanzlab.science.psu.edu` > click connect > log in with your PSU ID > choose Bisanz_Home. The server will now appear under Locations.
 
 If on windows, start by enabling samba following the instructions [here](https://www.asus.com/support/FAQ/1037477/). Thensee this [link](https://www.techrepublic.com/article/how-to-connect-to-linux-samba-shares-from-windows-10/) and connect to `\\bisanzlab.science.psu.edu\Bisanz_Home.`
+
+To use the samba share, you will need to be added to the samba users by JB: `sudo smbpasswd -a youruser`.
 
 ## Permissions
 
