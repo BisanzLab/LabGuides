@@ -40,7 +40,7 @@ You can access a full version of R studio remotely using the servers resources b
 
 You can use samba to connect to the lab server's storage which makes it appears like the server is an external hard drive on your computer. On OSX: Open Finder > command K > add the server address `smb://bisanzlab.science.psu.edu` > click connect > log in with your PSU ID > choose Bisanz_Home. The server will now appear under Locations.
 
-If on windows, start by enabling samba following the instructions [here](https://www.asus.com/support/FAQ/1037477/). Thensee this [link](https://www.techrepublic.com/article/how-to-connect-to-linux-samba-shares-from-windows-10/) and connect to `\\bisanzlab.science.psu.edu\BisanzLab_Home.`
+If on windows, start by enabling samba following the instructions [here](https://www.asus.com/support/FAQ/1037477/). Thensee this [link](https://www.techrepublic.com/article/how-to-connect-to-linux-samba-shares-from-windows-10/) and connect to `\\bisanzlab.science.psu.edu\Bisanz_Home.`
 
 ## Permissions
 
