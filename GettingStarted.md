@@ -21,9 +21,10 @@ We located in the Huck Life Sciences Building Room 305. You will be able to get 
 Read and sign the Bisanz Lab and Research Safety plan (binder in lab).
 
 Visit [CITI](https://citi.psu.edu/) to complete the following online training:
-- [ ] Shipping of Regulated Biological Material (ID 146359)
-- [ ] Initial Biosafety Training - Yearly BioSafety Training (ID 146366)
-- [ ] Animal Care and Use (ACU) - Researchers (NOT involved in survival surgery) (ID 110495)
+- [ ] Initial Biosafety Training - Yearly BioSafety Training
+- [ ] Shipping of Regulated Biological Material
+- [ ] OSHA Bloodborne Pathogens
+- [ ] Animal Care and Use (ACU) - Researchers (NOT involved in survival surgery)
 
 Visit [EHS](https://psu.csod.com/samldefault.aspx?returnurl=%252fDeepLink%252fProcessRedirect.aspx%253fmodule%253dlodetails%2526lo%253d7f20e00f-85e8-4e82-a7be-683fc9038966) and complete EHS - Initial Laboratory and Research Safety Training - University Park.
 
