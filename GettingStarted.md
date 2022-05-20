@@ -18,13 +18,15 @@ We located in the Huck Life Sciences Building Room 305. You will be able to get 
 
 ## Required Training
 
-Read and sign the Bisanz Lab and Research Safety plan (binder in lab).
+*Note: if you will not be using animals in your research project, skip the portions pertaining to animal training/safety.*
+
+Visit [here](https://github.com/BisanzLab/LabProtocols/blob/main/Biohazards.md) to read about biohazardous agents and their handling in the lab. Then read and sign the Bisanz Lab and Research Safety plan (binder in lab).
 
 Visit [CITI](https://citi.psu.edu/) to complete the following online training:
 - [ ] Initial Biosafety Training - Yearly BioSafety Training
 - [ ] Shipping of Regulated Biological Material
 - [ ] OSHA Bloodborne Pathogens
-- [ ] Animal Care and Use (ACU) - Researchers (NOT involved in survival surgery)
+- [ ] Animal Care and Use (ACU) - Researchers (NOT involved in survival surgery
 
 Visit [EHS](https://psu.csod.com/samldefault.aspx?returnurl=%252fDeepLink%252fProcessRedirect.aspx%253fmodule%253dlodetails%2526lo%253d7f20e00f-85e8-4e82-a7be-683fc9038966) and complete EHS - Initial Laboratory and Research Safety Training - University Park.
 
@@ -32,11 +34,7 @@ And also:
 - [ ] Complete the [Animal Hazards Training for Labs](https://pennstateoffice365.sharepoint.com/:p:/s/AnimalHazardSafetyProtocols/EchdwvEFK0VDlXrdCa35yd0B3uywgeF2S8_lmf6r0wHpYg?e=reQleH). 
 - [ ] Read the Animal Biosafety protocol for gnotobiotics [here](https://pennstateoffice365.sharepoint.com/:w:/s/AnimalHazardSafetyProtocols/ESvA412o4EZBnYJYATO_DKMBdUzhltv5t4oU8yVYqRsulA?e=8clUIj).
 
-**!!!Print copies of your completion certificates and give to Jaden. Ask to be added to the Animal Biohazard Training Record.**
-
-## Getting on the mail lists
-
-- [ ] Email Matt mblack [at] psu.edu and request to be added to the microbiome center mail list.
+**!!!Print copies of your completion certificates and give to Jordan. Ask to be added to the Animal Biohazard Training Record.**
 
 ## Access to Lab Server
 
