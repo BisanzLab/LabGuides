@@ -14,7 +14,6 @@ We located in the Huck Life Sciences Building Room 305. You will be able to get 
 ## Send your photo and bio for the lab website
 
 - [ ] Send a picture and brief bio for the lab website
-- [ ] If you need a picture taken email David dmb385 [at] psu.edu to request a time for him to snap a pick.
 
 ## Required Training
 
