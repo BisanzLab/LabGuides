@@ -2,7 +2,7 @@
 
 ## Building Access and Keys
 
-We located in the Huck Life Sciences Building Room 305. You will be able to get keycard access to the building/lab. Please email Deb dvb7 [at] psu.edu and cc jpb6325 [at] psu.edu requesting access. Be sure to send from your PSU address!
+We located in the Huck Life Sciences Building Room 305. You will be able to get keycard access to the building/lab. Please fill out a Facility Access Authorization Request and send to Jordan.
 
 ## Communicating in the lab
 - [ ] Please download and install [Slack](www.slack.com) and request invite from Jordan or use link in your welcome letter.
